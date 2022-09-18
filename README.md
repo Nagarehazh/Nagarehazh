@@ -10,7 +10,7 @@
 <h4 align="center">"Live as if you were to die tomorrow. Learn as if you were to live forever" -Mahama Ghandi-
 
 I'm Full Stack Developer with a broad and versatile coding skills set. As a Paramedic, Master Clinical Hypnotherapist, and father of three adorable children, I’ve learned powerful Hard-working, Proactive, Goal-Oriented, Learning-agility.
-</a>.</h4>
+</a></h4>
 
 ## TECHNOLOGIES
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)  
