@@ -65,3 +65,6 @@ Built a functional shopping cart using React, typescript, localStorage, CustomHo
 <a href="mailto:contact@harleyzapata.com">
   <img src="https://img.icons8.com/clouds/100/000000/new-post.png" width="100" height="100"/>
 </a>
+<a href="https://drive.google.com/file/d/18c_JqRJfeMmj4GYfK2r129qsq6DxyP2h/view?usp=sharing">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-4.png" width="100" height="100"/>
+</a>
