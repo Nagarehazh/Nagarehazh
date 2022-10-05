@@ -15,7 +15,36 @@ I'm Full Stack Developer with a broad and versatile coding skills set. As a Para
 ## TECHNOLOGIES
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)  
 
-## 🎇 PROJECTS
+## 🎇 PROJECTS<br/>
+
+### MyBudget 🪙👛
+Develop an application for personal budget management. The same must allow to create and edit income and expenses of money, and show a balance resulting from the registered operations. Additionally, it contain: <br/><br/>
+● User authentication Registration and login form to identify the user who uses the application, and link the registered operations to the user authenticated in the system, both for listing and creating new records. The essential data to allow the entry are an email and password.<br/><br/>
+●Operation Categories Functionality to categorize the operations registered in the manager, such as for example, a category “food” to categorize expenses. Additionally, possibility of listing operations by category.<br/><br/>
+MyBudget App is developed with the following technologies:<br/>
+● React<br/>
+● Typescript (Frontend and Backend)<br/>
+● Redux<br/>
+● Sequelize<br/>
+● PostgreSQL<br/>
+● Express<br/>
+● NodeJs<br/>
+● CSS PURE (styled-components) (no frameworks)<br/><br/>
+<a href="https://mybudget-challenge.netlify.app/" >
+<img src="https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura3.png" width="100%" height="100%"/>
+</a>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura4.png)  |  ![](https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura5.png)
+<a href="https://mybudget-challenge.netlify.app/" >
+<img src="https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura1.png" width="100%" height="100%"/>
+</a>
+<a href="https://mybudget-challenge.netlify.app/" >
+<img src="https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura2.png" width="100%" height="100%"/>
+</a>
+
+Video Preview: https://www.youtube.com/watch?v=PTTZZiUD4Eg <br/><br/>
 ### Movie Castle 🎦🏰
 Movie Castle is a movie app that allows you to discover titles within specific categories and
 genres, save them to watchlists, view trailers for upcoming films, and access information about
