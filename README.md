@@ -17,6 +17,30 @@ I'm Full Stack Developer with a broad and versatile coding skills set. As a Para
 
 ## 🎇 PROJECTS<br/>
 
+### TastyCrunch 🤤🍕
+Full Stack SPA PERN Aplication developed with typescript. It allow list food recipes with relevant information from the api [spoonacular](https://spoonacular.com/food-api), Search recipes, Filter / Sort , Create/upload/delet new own recipes.<br/><br/>
+TastyCrunch is developed with the following technologies:<br/>
+● React<br/>
+● Typescript (Frontend and Backend)<br/>
+● Redux<br/>
+● Sequelize<br/>
+● PostgreSQL<br/>
+● Express<br/>
+● NodeJs<br/>
+● CSS PURE (styled-components) (no frameworks)<br/><br/>
+<a href="https://tastycrunch.netlify.app/" >
+<img src="https://github.com/Nagarehazh/tastycrunch/blob/master/client/public/assets/screenshot1.png" width="100%" height="100%"/>
+</a><br/>
+<a href="https://tastycrunch.netlify.app/" >
+<img src="https://github.com/Nagarehazh/tastycrunch/blob/master/client/public/assets/screenshot2.png" width="100%" height="100%"/>
+</a><br/>
+<a href="https://tastycrunch.netlify.app/" >
+<img src="https://github.com/Nagarehazh/tastycrunch/blob/master/client/public/assets/screenshot3.png" width="100%" height="100%"/>
+</a><br/>
+<a href="https://tastycrunch.netlify.app/" >
+<img src="https://github.com/Nagarehazh/tastycrunch/blob/master/client/public/assets/screenshot4.png" width="100%" height="100%"/>
+</a><br/><br/>
+
 ### MyBudget 🪙👛
 Develop an application for personal budget management. The same must allow to create and edit income and expenses of money, and show a balance resulting from the registered operations. Additionally, it contain: <br/><br/>
 ● User authentication Registration and login form to identify the user who uses the application, and link the registered operations to the user authenticated in the system, both for listing and creating new records. The essential data to allow the entry are an email and password.<br/><br/>
@@ -30,11 +54,12 @@ MyBudget App is developed with the following technologies:<br/>
 ● Express<br/>
 ● NodeJs<br/>
 ● CSS PURE (styled-components) (no frameworks)<br/><br/>
+● Jest and supertest Testing
 <a href="https://mybudget-challenge.netlify.app/" >
 <img src="https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura3.png" width="100%" height="100%"/>
 </a>
 
-Solarized dark             |  Solarized Ocean
+Register           |  Login
 :-------------------------:|:-------------------------:
 ![](https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura4.png)  |  ![](https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura5.png)
 <a href="https://mybudget-challenge.netlify.app/" >
