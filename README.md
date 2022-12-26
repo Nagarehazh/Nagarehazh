@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="/"><img src="https://harleyzapata.com/images/logotw.png" alt="Logo Harley Zapata" width="200"></a>
+  <img src="https://harleyzapata.com/images/logotw.png" alt="Logo Harley Zapata" width="200">
   <br>
   Harley Zapata
   <br>
