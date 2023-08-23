@@ -29,7 +29,9 @@ https://github.com/Nagarehazh/genisum
 </a><br/>
 
 ### TastyCrunch 🤤🍕
-Full Stack SPA PERN Application developed with typescript. It allow list food recipes with relevant information from the api [spoonacular](https://spoonacular.com/food-api), Search recipes, Filter / Sort , Create/upload/delet new own recipes.<br/><br/>
+Full Stack SPA PERN Application developed with typescript. It allow list food recipes with relevant information from the api [spoonacular](https://spoonacular.com/food-api), Search recipes, Filter / Sort , Create/upload/delet new own recipes.
+https://github.com/Nagarehazh/tastycrunch
+<br/><br/>
 TastyCrunch is developed with the following technologies:<br/>
 ● React<br/>
 ● Typescript (Frontend and Backend)<br/>
