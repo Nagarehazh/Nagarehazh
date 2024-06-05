@@ -9,120 +9,88 @@
 
 <h4 align="center">"Live as if you were to die tomorrow. Learn as if you were to live forever" -Mahama Ghandi-
 
-I'm Full Stack Developer with a broad and versatile coding skills set. As a Paramedic, Master Clinical Hypnotherapist, and father of three adorable children, I’ve learned powerful Hard-working, Proactive, Goal-Oriented, Learning-agility.
-</a></h4>
+I'm a passionate Backend Developer with a love for creating efficient, scalable, and robust solutions. My journey in the tech world has equipped me with a wide array of skills and experiences that I bring to every project I work on. Let's dive into my world of backend development!
 
-## TECHNOLOGIES
-![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)  
+## 🚀 Technologies
 
-## 🎇 PROJECTS<br/>
+### Backend Skills (My True Passion)
+- **Languages:** TypeScript, Python, Kotlin, JavaScript
+- **Databases:** SQL, NoSQL, PostgreSQL, MongoDB
+- **ORM:** TypeORM, Sequelize, Knex, JPA Flyway, SQLAlchemy - Alembic
+- **Frameworks/Libraries:** Node.js, Express, Spring Boot, FastAPI
+- **Architectures:** Hexagonal Pattern, Microservices
+- **Other Skills:** Integrations with business management systems (Odoo), OpenAI integrations
 
-### Genisum 🤖
-Genisum is an impressive application using ReactJS with Vite for quick and efficient setup. The user interface stands out with its responsive and appealing design, achieved through Tailwind CSS and a touch of glass morphism. With RTK Query, I have made advanced API requests and managed history using local storage. Additionally, the project has an effective form event handling and error capturing, along with the copy-to-clipboard functionality. Throughout the development process, I have prioritized clean code practices, ensuring high-quality development.
-https://github.com/Nagarehazh/genisum
+### Frontend Skills (When Needed)
+- **Frameworks/Libraries:** React, Next.js, Vite
+- **Others:** HTML, CSS, ShadCN UI
 
-<a href="https://genisum.netlify.app/" >
-<img src="https://github.com/Nagarehazh/genisum/blob/main/src/assets/genisum.jpg" width="100%" height="100%"/>
-</a><br/>
-<a href="https://genisum.netlify.app/" >
-<img src="https://github.com/Nagarehazh/genisum/blob/main/src/assets/sumary.png" width="100%" height="100%"/>
-</a><br/>
+## 🌟 Projects & Experience
 
-### TastyCrunch 🤤🍕
-Full Stack SPA PERN Application developed with typescript. It allow list food recipes with relevant information from the api [spoonacular](https://spoonacular.com/food-api), Search recipes, Filter / Sort , Create/upload/delet new own recipes.
-https://github.com/Nagarehazh/tastycrunch
-<br/><br/>
-TastyCrunch is developed with the following technologies:<br/>
-● React<br/>
-● Typescript (Frontend and Backend)<br/>
-● Redux<br/>
-● Sequelize<br/>
-● PostgreSQL<br/>
-● Express<br/>
-● NodeJs<br/>
-● CSS PURE (styled-components) (no frameworks)<br/><br/>
-<a href="https://tastycrunch.netlify.app/" >
-<img src="https://github.com/Nagarehazh/tastycrunch/blob/master/client/public/assets/screenshot1.png" width="100%" height="100%"/>
-</a><br/>
-<a href="https://tastycrunch.netlify.app/" >
-<img src="https://github.com/Nagarehazh/tastycrunch/blob/master/client/public/assets/screenshot2.png" width="100%" height="100%"/>
-</a><br/>
-<a href="https://tastycrunch.netlify.app/" >
-<img src="https://github.com/Nagarehazh/tastycrunch/blob/master/client/public/assets/screenshot3.png" width="100%" height="100%"/>
-</a><br/>
-<a href="https://tastycrunch.netlify.app/" >
-<img src="https://github.com/Nagarehazh/tastycrunch/blob/master/client/public/assets/screenshot4.png" width="100%" height="100%"/>
-</a><br/><br/>
+### Wand Generator
+A custom QR generator and URL shortener that’s live and generating revenue! Check it out:
+- **Frontend URL:** [www.qrwg.xyz](https://www.qrwg.xyz)
+- **Backend Health Check URL:** [www.qrwg.pro/v1/health-check](https://www.qrwg.pro/v1/health-check)
 
-### MyBudget 🪙👛
-Develop an application for personal budget management. The same must allow to create and edit income and expenses of money, and show a balance resulting from the registered operations. Additionally, it contain: <br/><br/>
-● User authentication Registration and login form to identify the user who uses the application, and link the registered operations to the user authenticated in the system, both for listing and creating new records. The essential data to allow the entry are an email and password.<br/><br/>
-●Operation Categories Functionality to categorize the operations registered in the manager, such as for example, a category “food” to categorize expenses. Additionally, possibility of listing operations by category.<br/><br/>
-MyBudget App is developed with the following technologies:<br/>
-● React<br/>
-● Typescript (Frontend and Backend)<br/>
-● Redux<br/>
-● Sequelize<br/>
-● PostgreSQL<br/>
-● Express<br/>
-● NodeJs<br/>
-● CSS PURE (styled-components) (no frameworks)<br/><br/>
-● Jest and supertest Testing
-<a href="https://mybudget-challenge.netlify.app/" >
-<img src="https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura3.png" width="100%" height="100%"/>
-</a>
+**Technologies Used:**
+- **Frontend:** Vite, TypeScript, ShadCN UI
+  - **Features:** PayPal payments, Clerk for user authentication
 
-Register           |  Login
-:-------------------------:|:-------------------------:
-![](https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura4.png)  |  ![](https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura5.png)
-<a href="https://mybudget-challenge.netlify.app/" >
-<img src="https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura1.png" width="100%" height="100%"/>
-</a>
-<a href="https://mybudget-challenge.netlify.app/" >
-<img src="https://github.com/Nagarehazh/MyBudget-app/blob/Deploy/assets/captura2.png" width="100%" height="100%"/>
-</a>
+**Backend:** Bun, Hono, TypeScript
+- **Architecture:** Hexagonal
+- **Design Patterns:** Strategy (QR code types), State (QR code states)
+- **Additional Features:** Webhooks, JWT, PostgreSQL with TypeORM, caching system for performance
 
-Video Preview: https://www.youtube.com/watch?v=PTTZZiUD4Eg <br/><br/>
-### Movie Castle 🎦🏰
-Movie Castle is a movie app that allows you to discover titles within specific categories and
-genres, save them to watchlists, view trailers for upcoming films, and access information about
-the cast, synopsis, manage intelligent in-app voice assistants. It uses the TMDB API to fetch the data. <br />
-|React | Redux | Javascript | Material UI | Alan.AI | <br/> 
+### Rurall Latam
+As a Full Stack Developer at Rurall Latam, I have managed and developed multiple key projects, always with a strong focus on backend development. Here are some highlights:
 
-<a href="https://moviecastle.netlify.app/" fontSize="34">
-      <img align="center" src="https://harleyzapata.com/images/movieCastle.png" width="100%" height="400"/>
-     
-</a> <br/>
+**Rurapp Project**
+- **Stack:** TypeScript, React, SCSS, Redux Toolkit, Node.js, Express, PostgreSQL, TypeORM
 
-### URL Shortener App 🩳
-Built shorten links app. I used Typescript, Remix framework, PostgreSQL, Dockerfile, and Prisma
-Orm for its development. The shortened URL is recorded in temporary Cache to reduce costs in
-the database for multiple uses of the same URL. <br />
-|Remix | PostgreSQL | Typescript | Dockerfile | PrismaORM | <br/> 
+**Rurall-Market Front-End**
+- **Stack:** TypeScript, Next.js, ShadCN, Zustand
 
-<a href="https://short-.up.railway.app/" fontSize="34">
-      <img align="center" src="https://harleyzapata.com/images/urlShortener.png" width="100%" height="400"/>
-     
-</a> <br/>
+**Sales Management Microservice**
+- **Stack:** TypeScript, Node.js, Express, PostgreSQL, TypeORM
 
-### Weather React App ☀️
-Create places/cities autocomplete using GeoDB API, use Promise.all and async/await, use
-openweather API in React. It uses Promise.all/async wait, 2API: Openweather and GeoDB, React, Typescript, CSS pure,
-HTML, Accordion React. <br />
-| React | Typescript | CSS pure | HTML | 2API | <br/> 
+**Synchronization Microservice**
+- **Stack:** JavaScript, Node.js, Express, PostgreSQL, Knex
 
-<a href="https://nagarehazh.github.io/weather-react-app/" fontSize="34">
-      <img align="center" src="https://harleyzapata.com/images/weatherApp.png" width="100%" height="400"/>
-     
-</a> <br/>
+**Logistics Microservice**
+- **Stack:** Kotlin, Spring Boot, JPA, PostgreSQL
+
+**Purchase Order Microservice**
+- **Stack:** Python, FastAPI, SQLAlchemy - Alembic
+
+**Farmer Microservice**
+- **Stack:** Python, FastAPI, SQLAlchemy - Alembic
+
+**Financials Microservice**
+- **Stack:** Kotlin, Spring Boot, JPA, PostgreSQL
+
+**Pricing Microservice**
+- **Stack:** Python, FastAPI, MongoDB
+
+**User Microservice**
+- **Stack:** TypeScript, Node.js, Express, PostgreSQL, Prisma
+
+### Integrations & Complementary Projects
+- Integrations with business management systems (Odoo)
+- SCRUM methodology
+- AWS
+
+## 📺 YouTube Channel
+I also run a YouTube channel focused on Backend development with TypeScript, where I share best practices, architectural patterns, and more. Check it out for some in-depth backend knowledge and tutorials!
+
+---
 
 ## Contact ☕
 <a href="https://www.linkedin.com/in/harleyzapata/">
   <img src="https://img.icons8.com/bubbles/200/000000/linkedin.png" width="100" height="100"/>
 </a>
-<a href="mailto:contact@harleyzapata.com">
+<a href="mailto:contacto@harleyzapata.life">
   <img src="https://img.icons8.com/clouds/100/000000/new-post.png" width="100" height="100"/>
 </a>
-<a href="https://drive.google.com/file/d/1YXEZfFbFNhqr5WKCcOHwVmKYIpOyW10t/view">
+<a href="https://drive.google.com/file/d/1TJTSatnNAfwzoYZIWqJ_fLyZKBevp7KA/view">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-4.png" width="100" height="100"/>
 </a>
