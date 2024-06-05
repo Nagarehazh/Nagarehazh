@@ -79,11 +79,8 @@ As a Full Stack Developer at Rurall Latam, I have managed and developed multiple
 - SCRUM methodology
 - AWS
 
-### GitHub Contributions
-I have made significant contributions to various projects, with over 2140 contributions in the last year. Check out my work at the company GitHub account: [HarleyZapata-Rurall](https://github.com/HarleyZapata-Rurall)
-
 ## 📺 YouTube Channel
-I also run a YouTube channel focused on Backend development with TypeScript, where I share best practices, architectural patterns, and more. Check it out for some in-depth backend knowledge and tutorials!
+I also run a YouTube channel focused on Backend development with TypeScript, where I share best practices, architectural patterns, and more. Check it out for some in-depth backend knowledge and tutorials!  [Canal](https://www.youtube.com/@harleyzapata)
 
 ---
 
