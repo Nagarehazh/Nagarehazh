@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Nagarehazh/magic-happy/blob/main/public/logo_main.png" alt="Logo Harley Zapata" width="200">
+  <img src="https://github.com/Nagarehazh/genisum/blob/main/src/assets/logo_main.png" alt="Logo Harley Zapata" width="200">
   <br>
   Harley Zapata
   <br>
@@ -11,10 +11,34 @@
 
 I'm a passionate Backend Developer with a love for creating efficient, scalable, and robust solutions. My journey in the tech world has equipped me with a wide array of skills and experiences that I bring to every project I work on. Let's dive into my world of backend development!
 
+## Gognition CEO
+
+Gognition is your go-to resource for learning Go (Golang) in Spanish. We believe in learning by doing, offering:
+
+- 📚 Step-by-step tutorials
+- 🛠️ Hands-on projects
+- 🧠 Clear explanations of Go concepts
+- 🌟 Challenges to boost your skills
+
+Aprende haciendo - Learn by doing
+
+## Why Gognition?
+
+- 🌎 Content for the global Spanish-speaking community
+- 🚀 Practical, project-based learning
+- 👥 Growing community of Go enthusiasts
+- 🆓 Free, open-source resources
+
+Join us in our mission to make Go accessible to the Spanish-speaking world. Let's code, learn, and grow together!
+
+[Visit Gognition](https://www.gognition.pro) | [Gognition Linkedin](https://www.linkedin.com/company/gognition)
+
+¡Vamos a programar en Go! 💪🐹
+
 ## 🚀 Technologies
 
 ### Backend Skills (My True Passion)
-- **Languages:** TypeScript, Python, Kotlin, JavaScript
+- **Languages:** Go, TypeScript, Python, Kotlin, JavaScript
 - **Databases:** SQL, NoSQL, PostgreSQL, MongoDB
 - **ORM:** TypeORM, Sequelize, Knex, JPA Flyway, SQLAlchemy - Alembic
 - **Frameworks/Libraries:** Node.js, Express, Spring Boot, FastAPI
@@ -80,7 +104,7 @@ As a Full Stack Developer at Rurall Latam, I have managed and developed multiple
 - AWS
 
 ## 📺 YouTube Channel
-I also run a YouTube channel focused on Backend development with TypeScript, where I share best practices, architectural patterns, and more. Check it out for some in-depth backend knowledge and tutorials!  [Canal](https://www.youtube.com/@harleyzapata)
+I also run a YouTube channel focused on Backend development, where I share best practices, architectural patterns, and more. Check it out for some in-depth backend knowledge and tutorials!  [Canal](https://www.youtube.com/@harleyzapata)
 
 ---
 
@@ -91,6 +115,6 @@ I also run a YouTube channel focused on Backend development with TypeScript, whe
 <a href="mailto:contacto@harleyzapata.life">
   <img src="https://img.icons8.com/clouds/100/000000/new-post.png" width="100" height="100"/>
 </a>
-<a href="https://drive.google.com/file/d/1TJTSatnNAfwzoYZIWqJ_fLyZKBevp7KA/view">
+<a href="https://drive.google.com/file/d/1BobzoKT1j-9LZIsk4LCOyJM1K_lrXJzo/view?usp=drive_link">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-4.png" width="100" height="100"/>
 </a>
