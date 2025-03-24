@@ -115,6 +115,6 @@ I also run a YouTube channel focused on Backend development, where I share best 
 <a href="mailto:contacto@harleyzapata.life">
   <img src="https://img.icons8.com/clouds/100/000000/new-post.png" width="100" height="100"/>
 </a>
-<a href="https://drive.google.com/file/d/1BobzoKT1j-9LZIsk4LCOyJM1K_lrXJzo/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1CKURguCs-2LbVp6bMz_KhAeLZCI6grNI/view?usp=sharing">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-resume-recruitment-agency-flaticons-lineal-color-flat-icons-4.png" width="100" height="100"/>
 </a>
